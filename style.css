@@ -27,6 +27,10 @@ body{
     font-family: calibri, 'Times New Roman', Times, serif;
     font-size: large;
 }
+
+h1{
+    
+}
 .main_topo_flex{
     margin: auto;
     width:  80%;
@@ -34,7 +38,7 @@ body{
 .main_topo_article_title{
     padding: 2%;
     color: #363636;
-    font-size: 50px;
+    font-size: clamp(1em, 1.5em + 1.5vw, 3em);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -52,9 +56,9 @@ body{
     align-items: center;   
 }
 .main_topo_div{
-    padding: 0% 5%;
-    min-width: 100px;
-    max-width: 200px;
+    padding: 0px 30px;
+    min-width: 200px;
+    max-width: 300px;
     text-align: justify;
     
   
