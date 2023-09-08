@@ -131,6 +131,7 @@ body{
 .creditos{
     text-align: center;
     padding-top: 2%;
+    padding-bottom: 2%;
  }
 
 .creditos > p{
@@ -142,6 +143,9 @@ footer{
     color: white;
 }
 
+.creditos a:active{
+    color: aliceblue;
+}
 .color_team{
     text-decoration: none;
     color: #ffcc5c;
