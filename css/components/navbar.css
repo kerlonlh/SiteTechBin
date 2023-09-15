@@ -1,9 +1,17 @@
 .navbar{
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
     background-color: var(--gray);
+    margin: auto;
 }
 
-.navbar img{
-    width: 20rem;
+.navbar .navbar__image{
+    width: 30rem;
+    padding: 1rem 0 2rem;
     display: flex;
+    justify-content: center;
     align-items: center;
+    margin: auto;
 }
