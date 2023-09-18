@@ -12,7 +12,10 @@ h1 {
     color: var(--gray);
   }
 
-
+.max-width{
+  margin: auto;
+  width: 80%;
+}
 @media only screen and (max-width: 1024px) {
     html {
      font-size: 60%;
