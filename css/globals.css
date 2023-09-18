@@ -12,6 +12,7 @@ h1 {
     color: var(--gray);
     text-align: center;
     padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
 ul {
