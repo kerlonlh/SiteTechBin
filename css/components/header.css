@@ -1,5 +1,7 @@
 header{
     background-color: var(--light-tertiary-color);
+    scroll-margin-top: 20rem;
+    gap: 4rem;
 }
 .header .header__content{
     text-align: center;
@@ -21,12 +23,31 @@ header{
 
 .header .header__image{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    padding: 8rem 0;
     
     
 }
-
-.header .header__image img{
+.header .header__image aside{
+    align-items: center;
+    padding: 0 10rem;
+}
+.header .header__image aside img{
     width: 20rem;
     
+}
+
+@media only screen and (max-width: 768px){
+    .header .header__image{
+        flex-direction: column;
+        align-items: center;
+    }
+    .header .header__content ul li{
+        flex-direction: column;
+        align-items: center;
+        padding: 2rem 4rem;
+    }
+    h1{
+        padding: 5rem 0;
+    }
 }

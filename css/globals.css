@@ -19,7 +19,7 @@ h1 {
     color: var(--gray);
     text-align: center;
     padding-top: 10rem;
-    padding-bottom: 5rem;
+    padding-bottom: 10rem;
   }
   p{
     font-weight: 400;
