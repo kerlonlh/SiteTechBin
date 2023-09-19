@@ -5,6 +5,13 @@
     scroll-behavior: smooth;
     font-family: var(--font-family);
 }
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+}
 
 h1 {
     font-size: 5.5rem;
@@ -14,7 +21,10 @@ h1 {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
-
+  p:not(:last-of-type){
+    margin-bottom: 2rem;
+  }
+  
 ul {
     list-style: none;
     color: var(--gray);
@@ -27,8 +37,11 @@ a {
   
 
 .max-width{
-  margin: auto;
-  width: 80%;
+  width: 100%;
+  max-width: 120rem;
+  padding: 0 4rem;
+  margin: 0 auto;
+  margin-bottom: 26rem;
 }
 @media only screen and (max-width: 1024px) {
     html {
@@ -52,7 +65,7 @@ a {
   
 @media only screen and (max-width: 425px) {
     h1 {
-      font-size: 3.0rem;
+      font-size: 4.0rem;
     }
 }
   
