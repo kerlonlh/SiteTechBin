@@ -21,6 +21,11 @@ h1 {
     padding-top: 10rem;
     padding-bottom: 5rem;
   }
+  p{
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 3rem;
+  }
   p:not(:last-of-type){
     margin-bottom: 2rem;
   }
