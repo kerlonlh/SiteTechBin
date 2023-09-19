@@ -24,7 +24,7 @@ header{
 .header .header__image{
     display: flex;
     justify-content: space-between;
-    padding: 8rem 0;
+    padding: 8rem;
     
     
 }
@@ -35,6 +35,12 @@ header{
 .header .header__image aside img{
     width: 20rem;
     
+}
+.wave__main{
+    min-height: 1rem;
+    width: 100%;
+    position: relative;
+    background-color: var(--orange);
 }
 
 @media only screen and (max-width: 768px){

@@ -46,7 +46,6 @@ a {
   max-width: 120rem;
   padding: 0 4rem;
   margin: 0 auto;
-  margin-bottom: 26rem;
 }
 @media only screen and (max-width: 1024px) {
     html {
