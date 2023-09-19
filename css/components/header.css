@@ -18,3 +18,15 @@ header{
 .header .header__content ul li .skills__title .title__color{
     color: var(--green-color);
 }
+
+.header .header__image{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.header .header__image img{
+    width: 20rem;
+    
+}
