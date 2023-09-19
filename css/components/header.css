@@ -1,8 +1,10 @@
+header{
+    background-color: var(--light-tertiary-color);
+}
 .header .header__content{
     text-align: center;
     
 }
-
 .header .header__content ul{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
