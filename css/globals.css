@@ -18,7 +18,7 @@ h1 {
     font-weight: 700;
     color: var(--gray);
     text-align: center;
-    padding-top: 5rem;
+    padding-top: 10rem;
     padding-bottom: 5rem;
   }
   p:not(:last-of-type){
