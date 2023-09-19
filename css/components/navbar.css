@@ -1,13 +1,14 @@
 .navbar{
+    background-color: var(--gray);
+}
+.navbar .navbar__image{
     top: 0;
     left: 0;
+    margin: auto;
     width: 100%;
     z-index: 10;
-    background-color: var(--gray);
-    margin: auto;
 }
-
-.navbar .navbar__image{
+.navbar .navbar__image img{
     width: 30rem;
     padding: 1rem 0 2rem;
     display: flex;
