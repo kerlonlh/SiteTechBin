@@ -41,13 +41,12 @@ header{
     .header .header__image{
         flex-direction: column;
         align-items: center;
+        padding: 4rem 0;
     }
     .header .header__content ul li{
         flex-direction: column;
         align-items: center;
         padding: 2rem 4rem;
     }
-    h1{
-        padding: 5rem 0;
-    }
+    
 }
