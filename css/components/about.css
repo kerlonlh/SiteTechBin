@@ -2,14 +2,9 @@
     background-color: var(--orange);
 }
 
-.waves{
+.waves__about{
     min-height: 1rem;
     width: 100%;
     position: relative;
-}
-.wave__about__two{
-    min-height: 1rem;
-    width: 100%;
-    position: relative;
-    background-color: var(--green-weak);
+    background-color: var(--light-tertiary-color);
 }
