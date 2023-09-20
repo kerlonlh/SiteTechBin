@@ -42,6 +42,7 @@ header{
     position: relative;
     background-color: var(--orange);
 }
+.header .header__title
 
 @media only screen and (max-width: 768px){
     .header .header__image{
