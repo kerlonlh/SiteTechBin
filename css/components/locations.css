@@ -1,7 +1,9 @@
 .locations{
     background-color: var(--light-tertiary-color);
 }
-
+.locations .locations__content h1{
+    padding: ;
+}
 .locations .locations__image img{
     margin: auto;
     width: 100%;
