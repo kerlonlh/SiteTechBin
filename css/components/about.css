@@ -8,9 +8,11 @@
     min-height: 1rem;
     width: 100%;
     position: relative;
+    
+}
+.waves__about svg .path__one{
     background-color: var(--light-tertiary-color);
 }
-
-.about__baixo{
+.waves__about svg .path__two{
     background-color: var(--green-weak);
 }
