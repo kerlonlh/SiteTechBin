@@ -5,14 +5,12 @@ header{
 }
 .header .header__content{
     text-align: center;
-    
 }
 .header .header__content ul{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
     gap: 2rem;
 }
-
 .header .header__content ul li .skills__title h3{
     display: inline-block;
 }
@@ -57,6 +55,10 @@ header{
         flex-direction: column;
         align-items: center;
         padding: 2rem 4rem;
+    }
+    .header .header__title{
+        padding-top: 3rem;
+        padding-bottom: 0;
     }
     
 }
