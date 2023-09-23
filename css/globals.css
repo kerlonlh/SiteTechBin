@@ -24,10 +24,6 @@ h1 {
     font-size: 1.6rem;
     line-height: 3rem;
   }
-  p:not(:last-of-type){
-    margin-bottom: 2rem;
-  }
-  
 ul {
     list-style: none;
     color: var(--gray);
