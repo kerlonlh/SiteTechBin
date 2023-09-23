@@ -1,0 +1,8 @@
+.footer{
+    background-color: var(--green-weak);
+    text-align: center;
+
+}
+.footer .footer__image img{
+    width: 20rem;
+}
