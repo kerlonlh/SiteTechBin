@@ -7,15 +7,16 @@
 .waves__about{
     min-height: 1rem;
     width: 100%;
-    background-color: var(--light-tertiary-color);
+    background-color: var(--green-weak);
+    position: relative;
     
 }
 .waves__about svg .path__one{
     
-    position: relative;
+    
 }
 .waves__about svg .path__two{
-    background-color: var(--green-weak);
+    
     position: absolute;
     z-index: -1;
 }
