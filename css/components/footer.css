@@ -3,6 +3,9 @@
     text-align: center;
 
 }
+.footer .footer__image{
+    padding: 4rem 0 4rem;
+}
 .footer .footer__image img{
     width: 20rem;
 }
