@@ -11,12 +11,3 @@
     position: relative;
     
 }
-.waves__about svg .path__one{
-    
-    
-}
-.waves__about svg .path__two{
-    
-    position: absolute;
-    z-index: -1;
-}
