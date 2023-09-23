@@ -9,3 +9,11 @@
 .footer .footer__image img{
     width: 20rem;
 }
+
+.footer .footer__copyright{
+    padding-bottom: 2rem;
+}
+
+.footer .footer__copyright a:active{
+    color: var(--orange);
+}
