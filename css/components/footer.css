@@ -13,7 +13,9 @@
 .footer .footer__copyright{
     padding-bottom: 2rem;
 }
-
+.footer .footer__copyright a{
+    padding: 1rem;
+}
 .footer .footer__copyright a:hover{
     color: var(--orange);
 }
