@@ -27,8 +27,7 @@ header{
     padding: 0 10rem;
 }
 .header .header__image aside img{
-    width: 20rem;
-    
+    width: 20rem;   
 }
 .wave__main{
     min-height: 1rem;
@@ -40,7 +39,6 @@ header{
     padding-top: 10rem;
     padding-bottom: 10rem;
 }
-
 @media only screen and (max-width: 768px){
     .header .header__image{
         flex-direction: column;
@@ -56,5 +54,4 @@ header{
         padding-top: 3rem;
         padding-bottom: 0;
     }
-    
 }
