@@ -23,8 +23,6 @@ header{
     display: flex;
     justify-content: space-between;
     padding: 8rem;
-    
-    
 }
 .header .header__image aside{
     align-items: center;
