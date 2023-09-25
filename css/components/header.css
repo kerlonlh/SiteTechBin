@@ -14,11 +14,9 @@ header{
 .header .header__content ul li .skills__title h3{
     display: inline-block;
 }
-
 .header .header__content ul li .skills__title .title__color{
     color: var(--green-color);
 }
-
 .header .header__image{
     display: flex;
     justify-content: space-between;
