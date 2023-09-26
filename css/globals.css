@@ -24,8 +24,8 @@ p{
   line-height: 3rem;
   }
 ul {
-    list-style: none;
-    color: var(--gray);
+  list-style: none;
+  color: var(--gray);
 }
   
 a {
