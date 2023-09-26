@@ -27,7 +27,6 @@ ul {
   list-style: none;
   color: var(--gray);
 }
-  
 a {
     text-decoration: none;
     color: inherit;
