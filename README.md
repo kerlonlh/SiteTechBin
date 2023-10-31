@@ -6,3 +6,6 @@ A Tech Bin é uma lixeira inteligente, desenvolvida nas aulas de sustentabilidad
 
 ## O que eu aprendi com esse projeto? 
 Através desse projeto, melhorei minha forma de programar, aprendi novas tags e a pensar em uma melhor estruturação de código. Melhorei minhas habilidades de comunicação e de pensar de forma crítica. Conheci microeletrônica e aprendi uma linguagem nova, C++, utilizando o Framework Arduino. 
+
+
+Url do site: https://kerlon143.github.io/SiteTechBin/
